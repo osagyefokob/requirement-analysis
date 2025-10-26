@@ -91,3 +91,30 @@ Non-functional requirements focus on **performance, reliability, security, scala
 Together, both requirement types form the full picture:  
 Functional requirements define **capability**, while non-functional requirements define **quality.**
 
+## ✅ Acceptance Criteria
+
+**Acceptance Criteria** are the predefined conditions that a software feature must meet to be considered complete and acceptable by stakeholders.  
+They act as a bridge between requirements and testing — ensuring that the implemented feature behaves as expected and delivers real value to users.
+
+Acceptance Criteria bring clarity to both developers and clients by defining **what “done” really means**.  
+They reduce ambiguity, improve collaboration, and make the review process objective rather than opinion-based.
+
+---
+
+### ✳️ Importance of Acceptance Criteria
+- They set **clear expectations** for features before development begins.  
+- They guide **testing and validation**, ensuring each requirement is verifiable.  
+- They help **prevent scope creep** by defining what’s in — and what’s not — part of a feature.  
+- They enhance **communication** between developers, testers, and stakeholders.
+
+---
+
+### 🧾 Example — Checkout Feature (Booking Management System)
+
+**Feature:** Checkout process for booking confirmation.
+
+**Acceptance Criteria:**
+1. The system must allow a logged-in user to review their booking summary before payment.  
+2. The user must be able to select a preferred payment method (e.g., card
+
+
